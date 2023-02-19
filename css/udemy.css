@@ -1,0 +1,681 @@
+* {
+    margin: 0px
+}
+
+#udem {
+    font-weight: bolder;
+    font-size: 30px;
+    margin-left: 30px;
+}
+
+#cat {
+    margin-left: 20px;
+    margin-top: -15px;
+}
+
+.upline {
+    float: left;
+    padding: 15px 2px 5px 2px;
+    margin-top: -24px;
+    vertical-align: middle;
+}
+
+.forward {
+    display: inline-block;
+    float: left;
+    margin-left: 20px;
+}
+
+#last {
+    float: left;
+}
+
+#business {
+    margin-left: 30px;
+}
+
+#teach {
+    margin-left: 30px;
+}
+
+#cart {
+    margin-left: 30px;
+}
+
+#login {
+    margin-left: 30px;
+    border: 1px solid black;
+    padding: 8px 8px;
+    font-weight: bold;
+}
+
+#signup {
+    margin-left: 15px;
+    border: 1px solid black;
+    padding: 8px 8px;
+    color: white;
+    font-weight: bold;
+    background-color: black;
+
+}
+
+#global {
+    margin-left: 15px;
+    border: 1px solid black;
+    padding:8px 8px;
+
+}
+
+#carry {
+    position: absolute;
+    left: 33px;
+    top: 0px;
+    font-size: 25px;
+    color: blueviolet;
+    font-weight: bolder;
+}
+
+.tops {
+    padding-top: 22px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid black;
+}
+
+#searc {
+    font-size: small;
+    height: 45px;
+    padding: 5px 0px 5px 0px;
+    border-radius: 25px;
+    margin-top: -5px;
+    background-color: #f7f9fa;
+    color: #898b8d;
+    border: 1px solid #898b8d;
+}
+
+#look {
+    position: absolute;
+    left: 262px;
+    top: 29px;
+    color: #898b8d;
+}
+
+.forty {
+    clear: left;
+}
+
+#backgr {
+    height: 400px;
+    width: 93%;
+    background-color:#f7f9fa;
+    margin-left: 50px;
+    margin-right: 30px;
+}
+
+#imaged {
+    width:60%;
+    height: 400px;
+    margin-left: 533px;
+}
+
+.texta {
+    padding: 30px 40px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 160px;
+    left: 130px;
+}
+
+#lear {
+    font-weight: bolder;
+}
+
+#att {
+    margin-top: 15px;
+}
+
+#logs {
+    margin-top: -17px;
+}
+
+.next {
+    margin-left: 70px;
+    margin-top: 50px;
+}
+
+#abroad {
+    font-weight: bolder;
+}
+
+#choose {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+div ul {
+    list-style-type: none;  
+    margin-left: -39px;  
+}
+
+.navig a {
+    text-decoration: none;
+    color: #6b6666de;
+    font-weight: bold;
+}
+
+.navig a:hover {
+    color: black;
+    font-weight: bolder;
+}
+
+ul li {
+    float: left;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.nexter {
+    margin-left: 70px;
+    margin-top: 60px;
+    margin-right: 70px;
+    border: 1px solid #08070791;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+#expan {
+    font-weight: bolder;
+}
+
+#take {
+    margin-top: 20px;
+}
+
+#simple {
+    margin-top: -20px;
+}
+
+#build {
+    margin-top: -20px;
+}
+
+#buto {
+    padding: 10px 10px;
+    background-color: white;
+    font-weight: bolder;
+    border: 1px solid black;
+}
+
+#buto:hover {
+    background-color: #f7f9fa;
+}
+
+.one {
+    float: left;
+    margin-right: 35px;
+}
+
+.two {
+    margin-left: 8px;
+    float: left;
+    margin-right: 35px;
+}
+
+.three {
+    margin-left: 8px;
+    float: left;
+    margin-right: 20px;
+}
+
+.four {
+    margin-left: 8px;
+    float: left;
+    margin-right: 35px;
+}
+
+.five {    
+    margin-left: 8px;
+    float: left;
+
+}
+
+.textone {
+    font-weight: bolder;
+    font-size: 14px;
+}
+
+.textones {
+    font-weight: bolder;
+    margin-top: -20px;
+    font-size: 14px;
+}
+
+#picon {
+    height: 200px;
+    width: 210px;
+    border: 1px solid black;
+}
+
+#pictw {
+    height: 200px;
+    width: 210px;
+    border: 1px solid black;
+}
+
+.lower {
+    font-size: 14px;
+    margin-top: -13px;
+}
+
+.rating {
+    font-size: 14px;
+    margin-top: -13px;
+}
+
+.lowest {
+    margin-top: -13px;
+}
+
+.number {
+    font-weight: bold;
+    color: rgb(152, 138, 7);
+}
+
+.sets {
+    color: rgb(222, 201, 9);
+}
+
+#picth {
+    height: 200px;
+    width: 210px;
+    border: 1px solid black;
+}
+
+#picfo {
+    height: 200px;
+    width: 210px;
+    border: 1px solid black;
+}
+
+#picfi {
+    height: 200px;
+    width: 210px;
+    border: 1px solid black;
+}
+
+.floater {
+    margin-top: 30px;
+    display: inline-block;
+   
+}
+
+.midsection {
+    margin-top: 70px;
+    background-color: #f7f9fa;
+    height: 100px;
+}
+
+.initial {
+    margin-left: 30px;
+}
+
+.second {
+    float: left;
+    margin-left: 117px;
+}
+
+.third {
+    float: left;
+    margin-left: 117px;
+}
+
+.plays {
+    padding: 12px 12px;
+    background-color: #d1d7dc;
+    border-radius: 50px;
+}
+
+ol li {
+    margin-top: 25px;
+    text-decoration: none;
+    list-style-type: none;
+    float: left;
+    margin-left: 10px;
+}
+
+/* div ol {
+    display: inline-block;
+} */
+
+.demand {
+    font-weight: bold;
+}
+
+.closeup {
+    display: block;
+    margin-top: -7px;
+}
+
+#students {
+    margin-top: 50px;
+    margin-left: 73px;
+    font-weight: bolder;
+}
+
+.lastpage {
+    margin-left: 70px;
+    margin-top: -10px;
+}
+
+#picone {
+    height: 200px;
+    width: 225px;
+    border: 1px solid black;
+}
+
+#pictwo {
+    height: 200px;
+    width: 225px;
+    border: 1px solid black;
+}
+
+#picthree {
+    height: 200px;
+    width: 225px;
+    border: 1px solid black;
+}
+
+#picfour {
+    height: 200px;
+    width: 225px;
+    border: 1px solid black;
+}
+
+#picfive {
+    height: 200px;
+    width: 225px;
+    border: 1px solid black;
+}
+
+#picone:hover {
+    cursor: pointer;
+    background-color: #f7f9fa;
+}
+
+#pictwo:hover {
+    cursor: pointer;
+    background-color: #f7f9fa;
+}
+
+#picthree:hover {
+    cursor: pointer;
+    background-color: #f7f9fa;
+}
+
+#picfour:hover {
+    cursor: pointer;
+    background-color: #f7f9fa;
+}
+
+#picfive:hover {
+    cursor: pointer;
+    background-color: #f7f9fa;
+}
+
+#picon:hover {
+    cursor: pointer;
+    background-color: #f7f9fa;
+}
+
+#pictw:hover {
+    cursor: pointer;
+    background-color: #f7f9fa;
+}
+
+#picth:hover {
+    cursor: pointer;
+    background-color: #f7f9fa;
+}
+
+#picfo:hover {
+    cursor: pointer;
+    background-color: #f7f9fa;
+}
+
+#picfi:hover {
+    cursor: pointer;
+    background-color: #f7f9fa;
+}
+
+#topic {
+    margin-left: 67px;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.feature {
+    background-color: #f7f9fa;
+    margin-top: 70px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.container {
+    margin-top: 25px;
+}
+
+.highone {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.hightwo {
+    color: #5624d0;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.hightwo:hover {
+    cursor: pointer;
+}
+
+.highthree {
+    color: #6b6666de;
+    margin-top: -14px;
+    font-size: 14px;
+}
+
+#bros {
+    padding: 7px 7px;
+    margin-top: 20px;
+    background-color: #f7f9fa;
+    font-weight: bold;
+    border: 1px solid black;
+    font-size: 14px;
+}
+
+#bros:hover {
+    background-color: #d1d7dc;
+    cursor: pointer;
+}
+
+#oya {
+    width: 400px;   
+    height: 400px;
+    position: relative;
+    left: 175px;
+}
+
+.another {
+    margin-top: 70px;
+    margin-bottom: 70px;
+
+}
+
+#bec {
+    font-weight: bolder;
+    font-size: xx-large;
+
+}
+
+#instruct {
+    margin-top: 25px;
+    font-size: 20px;
+}
+
+.millions {
+    margin-top: -20px;
+    font-size: 20px;
+}
+
+#teaches {
+    margin-left: 0px;
+    padding: 13px 13px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+#teaches:hover {
+    cursor: pointer;
+}
+
+#colls {
+    margin-top: 100px;
+}
+
+#trusted {
+    background-color: #f7f9fa;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#middle {
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+#leading {
+    text-align: center;
+}
+
+#together {
+    margin-left: 100px;
+    font-size: 25px;
+    color: rgba(29, 28, 28, 0.66);
+    font-weight: bold;
+}
+
+#volks {
+    margin-left: 170px;
+}
+
+#box {
+    margin-left: 170px;
+}
+
+#netapp {
+    margin-left: 170px;
+}
+
+#eventb {
+    margin-left: 170px;
+}
+
+#tata {
+    margin-left: 170px;
+}
+
+#oyaa {
+    width: 350px;   
+    height: 350px;
+    position: relative;
+    left: 10px;
+}
+
+.looker {
+    margin-top: 90px;
+}
+
+#colina {
+    margin-top: 80px;
+    position: relative;
+    left: 200px;
+}
+
+#buzz {
+    color: blueviolet;
+    margin-left: 10px;
+}
+
+#cover {
+    color: blueviolet;
+    position: absolute;
+    left: 12px;
+    top: -15px;
+}
+
+#oyaaa {
+    width: 400px;   
+    height: 400px;
+    position: relative;
+    left: 175px;
+}
+
+#kola {
+    margin-top: 68px;
+}
+
+.later {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.footing {
+    background-color: black;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#udema {
+    font-size: 30px;
+    font-weight: bolder;
+    display: inline-block;
+    margin-top: 50px;
+
+}
+
+#kawol {
+    color: blueviolet;
+    font-size: 30px;
+    font-weight: bolder;
+    position: relative;
+    left: -103px;
+    top: -20px;
+
+}
+
+#intre {
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+    font-weight: bold;
+    padding: 8px 35px;
+    margin-left: 480px;
+}
+
+#lastlast {
+    margin-top: 220px;
+    margin-left: 520px;
+    font-size: 12px;
+}
+
+#undercover {
+    width: 1150px;
+    height: 30px;
+    background-color: #f7f9fa;
+    position: absolute;
+    top: 80px;
+    margin-left: 70px;
+}
